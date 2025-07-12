@@ -5,9 +5,9 @@ export const AceSnippet = [
         meta: "for snippet",
     },
     {
-        caption: "saurabh",
-        value: `rana
-saaurabh`,
+        caption: "yati",
+        value: `gautam
+yaati`,
         meta: "abc",
     },
     {
